@@ -1,0 +1,27 @@
+('##########', ' LOGISTIC REGRESSION - RESULTS ', '##########')
+('F1 score for classifier =', 99.6, '%')
+
+('Time taken to read Testing and Training Data and preprocess them (trained using mllib)(days:seconds:microsecond:', datetime.timedelta(0, 2400, 746235))
+('Time taken to train the Logistic Regression model (trained using mllib)(days:seconds:microsecond:', datetime.timedelta(0, 1322, 621003))
+('Time taken to test the Logistic Regression model (trained using mllib)(days:seconds:microsecond:', datetime.timedelta(0, 156, 601166))
+('Total Time taken by Logistic Regression (trained using mllib)(days:seconds:microsecond:', datetime.timedelta(0, 3879, 968404))
+
+('Number of True Positives', 374)
+('Number of False Positives', 0)
+('Number of False Negatives', 3)
+('Number of True Negatives', 18347)
+
+('##########', ' SUPPORT VECTOR - RESULTS ', '##########')
+('F1 score for classifier =', 98.79, '%')
+
+('Time taken to read Testing and Training Data and preprocess them (days:seconds:microsecond):', datetime.timedelta(0, 2400, 746235))
+('Time taken to train the Support Vector Machine model(days:seconds:microsecond):', datetime.timedelta(0, 1415, 655597))
+('Time taken to test using the Support Vector Machine model (days:seconds:microsecond):', datetime.timedelta(0, 138, 874487))
+('Total Time taken by Support Vector Machine (days:seconds:microsecond):', datetime.timedelta(0, 3955, 276319))
+
+('Number of True Positives', 368)
+('Number of False Positives', 0)
+('Number of False Negatives', 9)
+('Number of True Negatives', 18347)
+
+

@@ -1,0 +1,11 @@
+('F1 score for Logistic Regression classifier (trained using mllib) =', 99.6, '%')
+
+('Time taken to read Testing and Training Data and preprocess them (h:mm:ss):', datetime.timedelta(0, 230, 238702))
+('Time taken to train the Logistic Regression model (h:mm:ss):', datetime.timedelta(0, 5167, 335214))
+('Time taken to test the Logistic Regression model (h:mm:ss):', datetime.timedelta(0, 175, 346919))
+('Total Time taken by Logistic Regression (trained using mllib) (h:mm:ss):', datetime.timedelta(0, 5572, 920835))
+
+('Number of True Positives', 374)
+('Number of False Positives', 0)
+('Number of False Negatives', 3)
+('Number of True Negatives', 18347)

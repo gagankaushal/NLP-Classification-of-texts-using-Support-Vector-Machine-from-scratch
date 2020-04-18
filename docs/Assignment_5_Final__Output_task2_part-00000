@@ -1,0 +1,11 @@
+('F1 score for classifier =', 99.87, '%')
+
+('Time taken to read Testing and Training Data and preprocess them (days:seconds:microsecond):', datetime.timedelta(0, 1292, 854187))
+('Time taken to train using the Support Vector Machine (days:seconds:microsecond):', datetime.timedelta(0, 5148, 112811))
+('Time taken to test using the Support Vector Machine (days:seconds:microsecond):', datetime.timedelta(0, 158, 967617))
+('Total Time taken by Support Vector Machine (days:seconds:microsecond):', datetime.timedelta(0, 6599, 934615))
+
+('Number of True Positives', 377)
+('Number of False Positives', 1)
+('Number of False Negatives', 0)
+('Number of True Negatives', 18346)
